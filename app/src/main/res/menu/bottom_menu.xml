@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/recents"
+        android:title=""
+        android:icon="@drawable/ic_recent" />
+    <item
+        android:id="@+id/maps"
+        android:title=""
+        android:icon="@drawable/ic_map" />
+    <item
+        android:id="@+id/add"
+        android:title="" />
+    <item
+        android:id="@+id/noti"
+        android:title=""
+        android:icon="@drawable/ic_noti" />
+    <item
+        android:id="@+id/user"
+        android:title=""
+        android:icon="@drawable/ic_user" />
+
+</menu>

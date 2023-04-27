@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoTesting</string>
+    <string name="recents">Recents</string>
+    <string name="maps">Maps</string>
+    <string name="plus">Plus</string>
+    <string name="notification">Notification</string>
+    <string name="user">User</string>
+</resources>
